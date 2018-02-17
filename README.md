@@ -4,7 +4,7 @@ when user connect to the webpage one ad display on the webpage and if user click
 so the aim is - to find out which verison of ad mostly clicked by user.
 There are two algorithims 
 1. Upper bound confidence
-2. Thompson samlping.
+2. Thompson samlping
 
 
 
